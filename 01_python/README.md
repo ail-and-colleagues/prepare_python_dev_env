@@ -91,7 +91,7 @@ func()
 from utils import func as utils_func
 utils_func()
 ```
-### `if __name__ == '__main__':`?
+### if \_\_name\_\_ == '\_\_main\_\_':`
 GitHubに挙げられているスクリプトなどには`if __name__ == '__main__':`のような書き方をされているスクリプトがある。これは、import時にスクリプトに書かれた内容が実行されてしまうのを避けることを目的としている。
 
 次のようなスクリプトがあったとする。
