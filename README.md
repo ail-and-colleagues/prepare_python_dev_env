@@ -1,5 +1,8 @@
 # prepare_python_dev_env
 note for preparation of Python, Git/GitHub and pytorch.
+### about
+研究室学生（とその周囲）のためのチュートリアル的なPython、Git/GitHub、pytorchの教材です。
+用語や定義、文法などの厳密さはひとまず置いておき、これらの利用に関する世界観、他のウェブコンテンツを見たときのなんとなくわかる感を養うことを重視しているつもり。
 
 ## PythonのインストールとVSCodeの設定
 対話モードでのテストとVSCode上での実行の仕方について
