@@ -8,7 +8,7 @@ C/C++のように記述したコードをコンパイル・ビルド（≒実行
 
 ![image](../00_python/assets/2023-04-25%20193945.png)
 
-自分の使っているOSを選択すると次図のようにダウンロード可能なバージョンが表示されるので、**Windows Installer (64bit)**が提供されているバージョンを探す。2023年4月25日現在では、3.9.13が良さそう。
+自分の使っているOSを選択すると次図のようにダウンロード可能なバージョンが表示される。windowsなら**Windows Installer (64bit)** が提供されているバージョンを探す。2023年4月25日現在では、3.9.13が良さそう。
 
 ![image](../00_python/assets/2023-04-25%20194537.png)
 
@@ -94,5 +94,8 @@ print("y = ", y)
 ![image](../00_python/assets/2023-04-25%20210336.png)
 
 Pythonのスクリプトを実装している最中はVSCodeの`Run>Run without Debugging`から実行しテストすることも多いが、実際に使う場合はpowershell（かTerminal）から`python ./sample00.py`のようにpythonで～.pyを実行せよ、といったコマンドを発行して実行することが多い。
+
+![image](../00_python/assets/2023-04-25%20211203.png)
+
 
 以上、PythonのインストールおよびVSCodeをPythonのエディタとして利用する方法までを示した。
