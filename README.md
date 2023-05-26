@@ -17,7 +17,7 @@ note for preparation of Python, Git/GitHub and pytorch.
 Pythonの基本についてもう少ししっかり学ぼうという場合はウェブ上に色々コンテンツがあるのでそちらで。ざっとみた感じ下記の教材が一通りまとまっていて良さそうでした。
 [Python ゼロからはじめるプログラミング](https://mitani.cs.tsukuba.ac.jp/book_support/python/)
 
-## Git/GitHub
+## はじめてのGit/GitHub
 分散型バージョン管理システムであるGitとGitで管理をしつつソースコードをホスティングしてくれるGitHubの取っ掛かり的な使い方について
 
-[10_git_gitHub(https://github.com/ail-and-colleagues/prepare_python_dev_env/tree/main/10_git_gitHub)
+[10_git_gitHub](https://github.com/ail-and-colleagues/prepare_python_dev_env/tree/main/10_git_gitHub)
